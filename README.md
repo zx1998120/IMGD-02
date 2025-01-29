@@ -14,14 +14,14 @@ This is a dynamic and cool sunglasses case. Those lenses are dynamic.
 
 # Code 
 
-# 
-function setup() {
+
+    function setup() {
     createCanvas(200, 200);
     noStroke();
     angleMode(DEGREES);
-}
+    }
 
-function draw() {
+    function draw() {
     background(180, 220, 240);
     
     // Coloring
