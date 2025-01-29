@@ -11,10 +11,10 @@ This is a dynamic and cool sunglasses case. Those lenses are dynamic.
 6. Drawing the mouth
 7. Set up text effects
 
+
 # Code 
 
-
-//
+# 
 function setup() {
     createCanvas(200, 200);
     noStroke();
